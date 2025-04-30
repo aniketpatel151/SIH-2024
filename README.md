@@ -1,7 +1,7 @@
 # 📮 Post Yojna AI – Smart Financial Scheme Recommender
 
 **SIH 2024 Submission**  
-**Team Name:** [Your Team Name]  
+**Team Name: Tech-Savvies** 
 **Track:** Smart Automation for Rural and Financial Inclusion  
 **Theme:** AI-based Personalized Financial Advisory via India Post
 
